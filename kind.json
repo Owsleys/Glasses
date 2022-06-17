@@ -1,0 +1,11 @@
+{
+	"uuid": "03349CA4-B0AF-4D95-A55C-64743BAAEDAC",
+	"category": "kind",
+	"templates": [
+		{
+			"name": "yourself",
+			"fileExtension": "html",
+			"snippet": ""
+		}
+	]
+}
